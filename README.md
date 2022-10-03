@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working as a Junior Fullstack Developer
 - 🌱 I’m currently improving in .NET and Angular
-- 😄 Pronouns: Attack Helicopter
 - 📍 São Paulo
 - 📫 How to reach me: helderabreu.dev@protonmail.com
 
