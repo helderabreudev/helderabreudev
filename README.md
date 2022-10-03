@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as a Junior Fullstack Developer
 - 🌱 I’m currently improving in .NET and Angular
-- 📍 São Paulo
+- 📍  São Paulo
 - 📫 How to reach me: helderabreu.dev@protonmail.com
 
 <div align="">
